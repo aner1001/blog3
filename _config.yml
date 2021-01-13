@@ -3,18 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Tang
+subtitle: 'Tang Tang'
+description: '个人博客'
+keywords: blog,java
+author: 汤晔飞
+language: zh-CN
+timezone: 'Asia/Shanghai'
+email: 584856024@qq.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://aner1001.github.io/blog3
-root: /blog3
+root: /blog3/
 permalink: :loc/:year/:month/:day/:hash/
 permalink_defaults:
   loc: posts
@@ -43,6 +44,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -99,7 +103,68 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
+
+#播放aplayer js meting js全局插入控制。
+aplayer:
+   asset_inject: false
+   meting: true
+
+#豆瓣
+douban:
+  user: 229720114
+  builtin: true
+  book:
+    title: 'This is my book title'
+    quote: 'This is my book quote'
+    meta: true
+    comments: true
+    top_img: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/cover/top/m_book.jpg
+    aside: true
+  movie:
+    title: 'This is my movie title'
+    quote: 'This is my movie quote'
+    meta: true
+    comments: true
+    top_img: https://cccccc.png
+    aside: true
+  game:
+    title: 'This is my game title'
+    quote: 'This is my game quote'
+    meta: true
+    comments: true
+    top_img: https://cccccc.png
+    aside: true
+  timeout: 10000
+
+#搜索
+##本地
+search:
+  path: search.xml
+  field: post
+  content: true
+##网络
+algolia:
+  applicationID: 'IPXEYFRVVA'
+  apiKey: '9ece2c29d29a1caff00ab5e7a439e313'
+  indexName: 'blog'
+
+# 离线访问体验，基于Service Worker。offline config passed to sw-precache.
+# offline:
+#   maximumFileSizeToCacheInBytes: 10485760 # 緩存的最大文件大小，以字節為單位
+#   staticFileGlobs:
+#     - public/**/*.{js,html,css,png,jpg,gif,svg,webp,eot,ttf,woff,woff2}
+#   # 靜態文件合集，如果你的站點使用了例如webp格式的文件，請將文件類型添加進去。
+#   stripPrefix: public
+#   verbose: true
+#   runtimeCaching:
+#     # CDNs - should be cacheFirst, since they should be used specific versions so should not change
+#     - urlPattern: /* # 如果你需要加載CDN資源，請配置該選項，如果沒有，可以不配置。
+#       handler: cacheFirst
+#       options:
+#         origin: cdn.jsdelivr.net # cdn资源的 url
+
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

@@ -1,5 +1,12 @@
 ---
 title: Hello World
+date: 2020-12-31 09:12:39
+updated: 2020-12-31
+top_img: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/cover/dog/m_20201231093629.jpg
+cover: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/cover/plant/m_202012310933.jpg
+tags: [Hello,World]
+categories: [文章,心得]
+
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
