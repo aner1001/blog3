@@ -156,7 +156,7 @@ post_meta:
 
 # wordcount (字數統計)
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -371,7 +371,7 @@ chatra:
 # tidio
 # https://www.tidio.com/
 tidio:
-  enable: false
+  enable: true
   public_key: ghb7xsy1tvzxqswnbjwjxmd5nvawhzhd
 
 # daovoice
@@ -389,7 +389,7 @@ gitter:
 # crisp
 # https://crisp.chat/en/
 crisp:
-  enable: true
+  enable: false
   website_id: 7170f439-59e2-4ea9-93d6-94ffcc347f90
 
 # Footer Settings
@@ -804,7 +804,7 @@ aplayerInject:
 # position 彈窗位置
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
-  enable: false
+  enable: true
   position: bottom-left
   bg_light: '#49b1f5' # The background color of Toast Notification in light mode
   bg_dark: '#121212' # The background color of Toast Notification in dark mode
@@ -814,7 +814,7 @@ baidu_push: false
 
 # https://instant.page/
 # prefetch (預加載)
-instantpage: false
+instantpage: true
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
@@ -831,13 +831,20 @@ lazyload:
 # PWA
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
+# pwa:
+#   enable: false
+#   manifest: /image/pwa/manifest.json
+#   apple_touch_icon: /image/pwa/apple-touch-icon.png
+#   favicon_32_32: /image/pwa/32.png
+#   favicon_16_16: /image/pwa/16.png
+#   mask_icon: /image/pwa/safari-pinned-tab.svg
 pwa:
-  enable: false
-  manifest: /image/pwa/manifest.json
-  apple_touch_icon: /image/pwa/apple-touch-icon.png
-  favicon_32_32: /image/pwa/32.png
-  favicon_16_16: /image/pwa/16.png
-  mask_icon: /image/pwa/safari-pinned-tab.svg
+  enable: true
+  manifest: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/fav1/manifest3.json
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/fav1/apple-touch-icon2.png
+  favicon_32_32: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/fav1/32.png
+  favicon_16_16: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/fav1/16.png
+  mask_icon: https://cdn.jsdelivr.net/gh/aner1001/picBed/img/fav1/safari-pinned-tab.svg
 
 # Disable Baidu transformation on mobile devices (禁止百度轉碼)
 disable_baidu_transformation: true
@@ -858,7 +865,8 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+    #- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+    - '<style type="text/css">#toggle-sidebar {left:100px}</style>'
   bottom:
     - <div class="aplayer no-destroy" data-url="https://cdn.jsdelivr.net/gh/aner1001/music/ZARD/Good-bye%20My%20Loneliness/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20Good-bye%20My%20Loneliness.mp3" data-name="Good-bye My Loneliness" data-artist="ZARD (ザード)" data-cover="https://cdn.jsdelivr.net/gh/aner1001/music/ZARD/Good-bye%20My%20Loneliness/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20Good-bye%20My%20Loneliness.jpg"  data-mutex="true" data-preload="metadata" data-theme="#3F51B5" data-loop="none" data-fixed="true" data-mini="true"></div>
 
