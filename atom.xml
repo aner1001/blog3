@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tang</title>
+  <icon>https://www.gravatar.com/avatar/38539ab83d29ffd1c7f38e6138ae27d3</icon>
+  <subtitle>Tang Tang</subtitle>
+  <link href="https://aner1001.github.io/blog3/atom.xml" rel="self"/>
+  
+  <link href="https://aner1001.github.io/blog3/"/>
+  <updated>2021-01-28T06:51:37.165Z</updated>
+  <id>https://aner1001.github.io/blog3/</id>
+  
+  <author>
+    <name>汤晔飞</name>
+    <email>584856024@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试TopImg</title>
+    <link href="https://aner1001.github.io/blog3/posts/2021/01/05/129606adbf22/"/>
+    <id>https://aner1001.github.io/blog3/posts/2021/01/05/129606adbf22/</id>
+    <published>2021-01-05T03:19:28.000Z</published>
+    <updated>2021-01-28T06:51:37.165Z</updated>
+    
+    
+    
+    
+    <category term="Diary" scheme="https://aner1001.github.io/blog3/categories/Diary/"/>
+    
+    <category term="PlayStation" scheme="https://aner1001.github.io/blog3/categories/Diary/PlayStation/"/>
+    
+    <category term="GOGO" scheme="https://aner1001.github.io/blog3/categories/Diary/PlayStation/GOGO/"/>
+    
+    <category term="Games" scheme="https://aner1001.github.io/blog3/categories/Diary/Games/"/>
+    
+    <category term="Life" scheme="https://aner1001.github.io/blog3/categories/Life/"/>
+    
+    
+    <category term="text_selection" scheme="https://aner1001.github.io/blog3/tags/text-selection/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>musicc</title>
+    <link href="https://aner1001.github.io/blog3/posts/2020/12/31/c5b713fcde2f/"/>
+    <id>https://aner1001.github.io/blog3/posts/2020/12/31/c5b713fcde2f/</id>
+    <published>2020-12-31T13:30:02.000Z</published>
+    <updated>2021-01-28T06:51:37.165Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="网易云音乐"><a href="#网易云音乐" class="headerlink" title="网易云音乐"></a>网易云音乐</h2><div class="aplayer" data-id="1409311773" data-server="netease" data-type="song" data-mutex="true" data-preload="auto" data-theme="#3F51B5"></div><h2 id="QQ音乐"><a href="#QQ音乐" class="headerlink" title="QQ音乐"></a>QQ音乐</h2><div class="aplayer" data-id="001Irxgy1LiHgo" data-server="tencent" data-type="song" data-mutex="true" data-preload="auto" data-theme="#3F51B5"></div><div class="aplayer" data-id="001j2TLE0RZch9" data-server="tencent" data-type="song" data-mutex="true" data-preload="auto" data-theme="#3F51B5"></div><!-- require APlayer --><!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"> --><!-- <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script> --><!-- require MetingJS --><!-- <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script> --><!-- <meting-js  audio="[{name:'負けないで',artist:'ZARD (ザード)',url:'ZARD (ザード) - 負けないで.flac',cover:'zard.jpg',lrc:'負けないで - ZARD (ザード).lrc'}]" fixed="true" mini="true"></meting-js> --><!--<meting-js    name="負けないで" artist="ZARD (ザード)" url="ZARD (ザード) - 負けないで.flac" cover="https://cdn.jsdelivr.net/gh/aner1001/musicBed/ZARD/byrs/byrs.jpg" lrc="https://cdn.jsdelivr.net/gh/aner1001/musicBed/ZARD/byrs/byrs.lrc" fixed="true" mini="true"></meting-js> --><!-- <meting-js name="負けないで" artist="ZARD (ザード)ZARD (ザード)" url="/blog3/music/ZARD (ザード) - 負けないで.flac" fixed="true" mini="true"></meting-js> --><!-- <script>const ap = new APlayer({    container: document.getElementById('aplayer'),    lrcType: 3,    audio: {        name: '負けないで',        artist: 'ZARD (ザード)ZARD (ザード)',        url: 'ZARD (ザード) - 負けないで.flac',        cover: 'zard.jpg',        lrc: '負けないで - ZARD (ザード).lrc'    }});</script> --><!-- <div class="aplayer no-destroy" data-url="https://cdn.jsdelivr.net/gh/aner1001/music/ZARD/Good-bye%20My%20Loneliness/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20Good-bye%20My%20Loneliness.mp3" data-name="負けないで" data-artist="ZARD (ザード)" data-cover="https://cdn.jsdelivr.net/gh/aner1001/music/ZARD/Good-bye%20My%20Loneliness/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20Good-bye%20My%20Loneliness.jpg" data-lrc="https://cdn.jsdelivr.net/gh/aner1001/music/ZARD/Good-bye%20My%20Loneliness/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20Good-bye%20My%20Loneliness.lrc" data-mutex="true" data-preload="auto" data-theme="#3F51B5" data-loop="none" data-fixed="true" data-mini="true"></div> -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;网易云音乐&quot;&gt;&lt;a href=&quot;#网易云音乐&quot; class=&quot;headerlink&quot; title=&quot;网易云音乐&quot;&gt;&lt;/a&gt;网易云音乐&lt;/h2&gt;&lt;div class=&quot;aplayer&quot; data-id=&quot;1409311773&quot; data-server=&quot;neteas</summary>
+      
+    
+    
+    
+    <category term="娱乐" scheme="https://aner1001.github.io/blog3/categories/%E5%A8%B1%E4%B9%90/"/>
+    
+    
+    <category term="音乐" scheme="https://aner1001.github.io/blog3/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://aner1001.github.io/blog3/posts/2020/12/31/42b0466b31d6/"/>
+    <id>https://aner1001.github.io/blog3/posts/2020/12/31/42b0466b31d6/</id>
+    <published>2020-12-31T01:12:39.000Z</published>
+    <updated>2020-12-30T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="文章" scheme="https://aner1001.github.io/blog3/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="心得" scheme="https://aner1001.github.io/blog3/categories/%E6%96%87%E7%AB%A0/%E5%BF%83%E5%BE%97/"/>
+    
+    
+    <category term="Hello" scheme="https://aner1001.github.io/blog3/tags/Hello/"/>
+    
+    <category term="World" scheme="https://aner1001.github.io/blog3/tags/World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub-Actions-auto-Deploy</title>
+    <link href="https://aner1001.github.io/blog3/posts/2020/12/30/bde9df164cd6/"/>
+    <id>https://aner1001.github.io/blog3/posts/2020/12/30/bde9df164cd6/</id>
+    <published>2020-12-30T02:47:14.000Z</published>
+    <updated>2020-12-31T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="通过action发布。"><a href="#通过action发布。" class="headerlink" title="通过action发布。"></a>通过action发布。</h1><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;/&quot;</span>&gt;</span> Home <span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;/gallery/&quot;</span>&gt;</span> Gallery <span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;/archives/&quot;</span>&gt;</span> Archives <span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">description</summary>
+    
+    
+    
+    <category term="技术" scheme="https://aner1001.github.io/blog3/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="自动化" scheme="https://aner1001.github.io/blog3/categories/%E6%8A%80%E6%9C%AF/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    
+    <category term="GitHub" scheme="https://aner1001.github.io/blog3/tags/GitHub/"/>
+    
+    <category term="Actions" scheme="https://aner1001.github.io/blog3/tags/Actions/"/>
+    
+  </entry>
+  
+</feed>
