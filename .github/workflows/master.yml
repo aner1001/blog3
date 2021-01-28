@@ -26,7 +26,7 @@ jobs:
         with:
           # Set always-auth in npmrc
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
-          node-version: 13.5.0
+          node-version: '12'
 
       # Runs a set of commands using the runners shell
       - name: Deploy Blog
